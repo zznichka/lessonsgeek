@@ -7,4 +7,3 @@ for n in my_list:
      i = i + 1
 my_list.insert(i, new_numb)
 print(my_list)
-
