@@ -6,3 +6,4 @@ while i + 1 < len(my_list):
     my_list.pop(i + 2)
     i = i + 2
 print(my_list)
+
